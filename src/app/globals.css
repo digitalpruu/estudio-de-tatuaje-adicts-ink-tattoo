@@ -7,7 +7,20 @@
   --secondBackground: #a7553c;
   --shadowColor: #896837;
   --hoverColor: #6f5942;
-  --font: Elephant;
+  --font: Pierson;
+}
+
+@font-face {
+  font-family: 'Pierson';
+    src: url('fonts/pierson-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'Zapfino';
+    src: url('fonts/42251_ZapfinoLinotypeOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
   font-family: 'Elephant';

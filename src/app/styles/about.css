@@ -27,9 +27,12 @@
     justify-content: center;
     align-items: center;
 }
+.about-text-container p{
+    font-family: "Zapfino", sans-serif;
+}
 .honk-title {
     text-align: center;
-    font-family: "Elephant", sans-serif;
+    font-family: "Pierson", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     padding-top: 0 !important;

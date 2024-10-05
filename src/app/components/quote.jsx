@@ -14,25 +14,14 @@ export default function Quote() {
                 </div>
                 <div className="quote-text-container animated-item">
                     <h1 className="about-title honk-title ">Cotiza</h1>
-                    <p className='about-text'>En {Texts.index.title}, nos esforzamos por ofrecerte los mejores productos
-                        adaptados a tus necesidades. Si estás interesado en alguno de nuestros productos,
-                        te invitamos a solicitar una cotización personalizada. Simplemente completa el formulario
-                        con tus datos y los detalles del producto que te interesa, y nuestro equipo revisará tu
-                        solicitud de inmediato.
+                    <p className='about-text'><b>
+                        ME ESFUERZO POR OFRECERTE LOS MEJORES PRODUCTOS ADAPTADOS A TUS NECESIDADES. SI ESTÁS INTERESADO EN ALGUNO DE MIS PRODUCTOS, TE INVITO A SOLICITAR UNA COTIZACIÓN PERSONALIZADA. SIMPLEMENTE COMPLETA EL FORMULARIO CON TUS DATOS Y LOS DETALLES DEL PRODUCTO QUE TE INTERESA, Y REVISARÉ TU SOLICITUD DE INMEDIATO.
+                        UNA VEZ QUE RECIBA TU INFORMACIÓN, TE ENVIARÉ UNA RESPUESTA DETALLADA A TU CORREO ELECTRÓNICO CON TODA LA INFORMACIÓN QUE NECESITAS PARA TOMAR LA MEJOR DECISIÓN.
+                        ESTOY COMPROMETIDA CON BRINDARTE UN SERVICIO RÁPIDO Y EFICIENTE, POR LO QUE PUEDES ESPERAR UNA RESPUESTA EN EL MENOR TIEMPO POSIBLE.
+                        SI TIENES ALGUNA DUDA DURANTE EL PROCESO O NECESITAS ASESORÍA ADICIONAL, NO DUDES EN PONERTE EN CONTACTO CONMIGO. ESTOY AQUÍ PARA AYUDARTE A ENCONTRAR LAS MEJORES SOLUCIONES. ¡GRACIAS POR CONFIAR EN MÍ!
+                    </b>
                     </p>
                     <br/>
-                    <p className='about-text'>
-                        Una vez que recibamos tu información, te enviaremos una respuesta detallada a tu
-                        correo electrónico con toda la información que necesitas para tomar la mejor decisión.
-                        Estamos comprometidos con brindarte un servicio rápido y eficiente, por lo que puedes
-                        esperar una respuesta en el menor tiempo posible.
-                    </p>
-                    <br/>
-                    <p className='about-text'>
-                        Si tienes alguna duda durante el proceso o necesitas asesoría adicional, no dudes en
-                        ponerte en contacto con nosotros. Estamos aquí para ayudarte a encontrar las mejores
-                        soluciones. ¡Gracias por confiar en nosotros!
-                    </p>
                 </div>
             </div>
 

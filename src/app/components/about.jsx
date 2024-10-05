@@ -12,8 +12,8 @@ export default function About() {
                         <img className='about-image' src="/assets/aboutBanner.jpg" alt='about'/>
                     </div>
                     <div className="about-text-container animated-item">
-                        <h1 className="about-title honk-title ">Acerca de Nosotros</h1>
-                        <p className='about-text'> {Text.about.description1}</p>
+                        <h1 className="about-title honk-title ">Acerca de mi</h1>
+                        <p className='about-text'> <b>{Text.about.description1} </b></p>
 
                         <p className='about-text'> {Text.about.description2}</p>
 
