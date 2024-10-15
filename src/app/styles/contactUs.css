@@ -29,7 +29,7 @@
 
 .honk-title {
     text-align: center;
-    font-family: "Pierson", sans-serif;
+    font-family: "Elephant", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     padding: 40px;
@@ -55,7 +55,8 @@
 }
 
 .contact-main-div {
-    background: var(--secondBackground);
+    border-bottom: 2px solid var(--secondBackground);
+    background: var(--background);
 }
 
 .contact-image {
